@@ -1,0 +1,7 @@
+{
+  "name": "Bé Học Tiếng Anh - Magic English",
+  "description": "An interactive English learning application for 5-year-old children, featuring vocabulary flashcards with pronunciation and AI-generated stories.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
